@@ -1,2 +1,2 @@
-# swoley-fit
- The ultimate gym training app built with react & tailwindCSS
+# Repify
+ A basic training app built with Vite, React.js & Tailwind
